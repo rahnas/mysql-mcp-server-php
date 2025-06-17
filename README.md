@@ -104,7 +104,7 @@ php -S localhost:8080 -t public
 
 ## License
 
-MIT
+GNU GENERAL PUBLIC LICENSE  Version 3, 29 June 2007
 
 ## Security
 
